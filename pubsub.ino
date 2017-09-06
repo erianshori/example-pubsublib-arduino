@@ -11,9 +11,9 @@
 
 
 //EDIT THESE LINES TO MATCH YOUR SETUP
-#define MQTT_SERVER "10.1.7.76"
-const char* ssid = "CIPTA";
-const char* password = "c1pt4sm4rt";
+#define MQTT_SERVER "your ip server / can be localhost"
+const char* ssid = "your wifi ssid";
+const char* password = "your wifi password";
 
 //LED on ESP8266 GPIO2
 const int lightPin = 2;
